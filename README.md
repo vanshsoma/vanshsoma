@@ -27,16 +27,16 @@
 |---|---|---|
 | [**DocHub**](https://github.com/vanshsoma/DocHub) | Concurrent API enterprise backend with conflict-free edits, JWT auth, and role-based routing. | Java · Spring Boot · PostgreSQL |
 | [**Kafka Telemetry Stream**](https://github.com/vanshsoma/Dynamic-Content-Stream-with-Kafka) | Fault-tolerant distributed streaming pipeline handling real-time data ingestion across a multi-node setup. | Python · Apache Kafka |
-| [**Docksmith**](https://github.com/vanshsoma/Docksmith) *(team)* | Custom container execution runtime built from scratch with layered builds and chroot OS-level isolation. | C++ · Python · Linux |
-| [**JamSesh**](https://github.com/vanshsoma/JamSesh) *(team)* | Multi-device multimedia application coordinating state synchronization and low-latency audio streaming. | JavaScript · WebRTC · Node.js |
+| [**Docksmith**](https://github.com/vanshsoma/Docksmith) | Custom container execution runtime built from scratch with layered builds and chroot OS-level isolation. | C++ · Python · Linux |
+| [**JamSesh**](https://github.com/vanshsoma/JamSesh) | Multi-device multimedia application coordinating state synchronization and low-latency audio streaming. | JavaScript · WebRTC · Node.js |
 
 ### 🧠 AI Security & GenAI
 
 | Project | What it does | Stack |
 |---|---|---|
 | [**PHANTOM**](https://github.com/vanshsoma/PHANTOM) | Defense-in-depth model-ownership framework that embeds cryptographic watermarks to prove neural network ownership. | Python · PyTorch · Meta-Learning |
-| [**CloudTrail Anomaly Detection**](https://github.com/umg9bd/CloudSec) *(team)* | Real-time GNN pipeline scoring streaming AWS logs to flag IAM privilege escalation attacks. | Python · Neo4j · AWS |
-| [**Project Gavel**](https://github.com/vanshsoma/Project-Gavel) *(team)* | RAG framework for complex legal analysis, automating semantic search and timeline reconstruction. | Python · LlamaIndex · FAISS |
+| [**CloudTrail Anomaly Detection**](https://github.com/umg9bd/CloudSec) | Real-time GNN pipeline scoring streaming AWS logs to flag IAM privilege escalation attacks. | Python · Neo4j · AWS |
+| [**Project Gavel**](https://github.com/vanshsoma/Project-Gavel) | RAG framework for complex legal analysis, automating semantic search and timeline reconstruction. | Python · LlamaIndex · FAISS |
 | [**netr.ai (FL-DR)**](https://github.com/vanshsoma/FL-diabetic-retinopathy) | Privacy-preserving federated learning framework for medical screening across simulated non-IID hospital clients. | TensorFlow · Flower |
 
 ---
