@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d28d9&height=170&section=header&text=Vanshitha%20Soma&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=secure%20AI%20%C2%B7%20systems%20%C2%B7%20networks&descSize=16&descAlignY=56" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d28d9&height=170&section=header&text=Vanshitha%20Soma&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineering%20%C2%B7%20AI%20Security%20%C2%B7%20Distributed%20Systems&descSize=16&descAlignY=56" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=Proving+who+owns+a+neural+network;Final-year+CSE+%40+PES+University%2C+Bengaluru;Backend+%C2%B7+distributed+systems+%C2%B7+networking" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Securing+AI+models+from+theft;Final-year+CSE+%40+PES+University%2C+Bengaluru;Distributed+streaming+%C2%B7+GenAI+%C2%B7+Cloud" alt="typing intro"/>
 </p>
 
 <p align="center">
@@ -14,50 +14,47 @@
 ### hey, I'm Vanshitha 👋
 
 - 🎓 Final-year B.Tech CSE at **PES University**, Bengaluru (2023–27)
-- 🔐 Research intern at **C-DAC** (MeitY), working on AI model security: watermarking neural networks so an owner can prove a model is theirs, even after it's been copied or fine-tuned
-- ⚙️ On the other side, I like systems work: real-time backends, Kafka pipelines, WebRTC, and debugging IS-IS routing in GNS3/FRR
-- 💼 Open to full-time SDE / ML / security roles (2027 grad)
+- 🔐 Former AI Research Intern at **C-DAC**, specializing in deep learning security and verifiable AI model ownership.
+- ⚙️ **Focus:** I bridge the gap between AI and infrastructure. I build robust enterprise backends (Java/Spring Boot), distributed data pipelines (Kafka), and custom system-level tools. 
+- 🏆 **Hackathons:** 3rd Place @ Praxis Hackathon | Top 7 Finalist @ Swasthya Avishkar
+- 💼 Actively seeking SDE, Full Stack, and Cloud Engineering roles (2027 grad).
 
 ---
 
-### 🔐 AI security
+### ⚙️ Backend, Cloud & Distributed Systems
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**PHANTOM**](https://github.com/vanshsoma/PHANTOM) | Embeds five independent watermarks into a ResNet-18 (real vs AI-generated images, CIFAKE) and verifies ownership in black-box and white-box settings | Python · deep learning |
-| [**CloudSec**](https://github.com/umg9bd/CloudSec) *(team)* | GNN (GraphSAGE / GAT) that flags IAM privilege escalation from AWS CloudTrail logs, tested on real attacks run with Stratus Red Team | GNNs · Neo4j · AWS |
+| [**DocHub**](https://github.com/vanshsoma/DocHub) | Concurrent API enterprise backend with conflict-free edits, JWT auth, and role-based routing. | Java · Spring Boot · PostgreSQL |
+| [**Kafka Telemetry Stream**](https://github.com/vanshsoma/Dynamic-Content-Stream-with-Kafka) | Fault-tolerant distributed streaming pipeline handling real-time data ingestion across a multi-node setup. | Python · Apache Kafka |
+| [**Docksmith**](https://github.com/vanshsoma/Docksmith) *(team)* | Custom container execution runtime built from scratch with layered builds and chroot OS-level isolation. | C++ · Python · Linux |
+| [**JamSesh**](https://github.com/vanshsoma/JamSesh) *(team)* | Multi-device multimedia application coordinating state synchronization and low-latency audio streaming. | JavaScript · WebRTC · Node.js |
 
-### 🧠 Machine learning
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**FL-diabetic-retinopathy**](https://github.com/vanshsoma/FL-diabetic-retinopathy) | Federated learning for retinopathy screening across non-IID hospital data, without the data leaving each hospital | Flower · TensorFlow |
-| [**Project-Gavel**](https://github.com/vanshsoma/Project-Gavel) *(team)* | RAG co-pilot for Indian case law, with cross-document contradiction detection and timeline reconstruction | LlamaIndex · Python |
-| [**Bypassing-Censorship**](https://github.com/vanshsoma/Bypassing-Censorship) *(team)* | How well leetspeak rules vs T5 detoxification slip past toxicity classifiers | NLP · T5 |
-
-### ⚙️ Systems & backend
+### 🧠 AI Security & GenAI
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**DocHub**](https://github.com/vanshsoma/DocHub) | Real-time collaborative editor with conflict-free concurrent edits, JWT auth and role-based access | Spring Boot · STOMP WebSockets |
-| [**Kafka content stream**](https://github.com/vanshsoma/Dynamic-Content-Stream-with-Kafka) | Distributed streaming pipeline across a four-node Kafka setup | Kafka · Python |
-| [**JamSesh**](https://github.com/vanshsoma/JamSesh) *(team)* | Multi-device audio streaming that stays in sync at low latency | WebRTC · JavaScript |
-| [**Docksmith**](https://github.com/vanshsoma/Docksmith) *(team)* | Mini Docker-like runtime with layered builds, caching and chroot isolation | Python · Linux |
-| [**PesuConnect**](https://github.com/vanshsoma/PesuConnect) | Freelance marketplace for university students | Streamlit · MySQL (Aiven) |
+| [**PHANTOM**](https://github.com/vanshsoma/PHANTOM) | Defense-in-depth model-ownership framework that embeds cryptographic watermarks to prove neural network ownership. | Python · PyTorch · Meta-Learning |
+| [**CloudTrail Anomaly Detection**](https://github.com/umg9bd/CloudSec) *(team)* | Real-time GNN pipeline scoring streaming AWS logs to flag IAM privilege escalation attacks. | Python · Neo4j · AWS |
+| [**Project Gavel**](https://github.com/vanshsoma/Project-Gavel) *(team)* | RAG framework for complex legal analysis, automating semantic search and timeline reconstruction. | Python · LlamaIndex · FAISS |
+| [**netr.ai (FL-DR)**](https://github.com/vanshsoma/FL-diabetic-retinopathy) | Privacy-preserving federated learning framework for medical screening across simulated non-IID hospital clients. | TensorFlow · Flower |
 
 ---
 
-### 🛠️ Tools I use
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,tensorflow,spring,mysql,aws,linux,git&perline=11" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,spring,postgres,mysql,aws,docker,kubernetes,jenkins,linux,git&perline=13" />
 </p>
 
-also: Kafka · Neo4j · WebRTC · Flower · LlamaIndex · GNS3 · FRRouting
+**Databases & Messaging:** PostgreSQL, MySQL, Redis, Apache Kafka, Neo4j, FAISS <br>
+**AI/ML Frameworks:** PyTorch, TensorFlow, Scikit-learn, LlamaIndex, Ollama <br>
+**Core Concepts:** Microservices, REST APIs, CI/CD, Object-Oriented Design, Cryptography
 
-### 🔭 Currently digging into
+---
 
-- white-box watermarking (Passport, Entangled Watermarks, SEAL…) and non-fine-tunable learning
-- why a mobile game's ping sits so far above the speed-of-light floor
+### 🔭 Currently exploring
+- Engineering advanced RAG architectures for enterprise search.
+- Deep-diving into network latency optimization and kernel-level packet processing. 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:0f172a&height=100&section=footer" width="100%"/>
